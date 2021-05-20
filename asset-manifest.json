@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/disease-fighter/static/css/main.03da100d.chunk.css",
+    "main.js": "/disease-fighter/static/js/main.29633e85.chunk.js",
+    "main.js.map": "/disease-fighter/static/js/main.29633e85.chunk.js.map",
+    "runtime-main.js": "/disease-fighter/static/js/runtime-main.d404ef19.js",
+    "runtime-main.js.map": "/disease-fighter/static/js/runtime-main.d404ef19.js.map",
+    "static/css/2.d06b72d2.chunk.css": "/disease-fighter/static/css/2.d06b72d2.chunk.css",
+    "static/js/2.6d479ba7.chunk.js": "/disease-fighter/static/js/2.6d479ba7.chunk.js",
+    "static/js/2.6d479ba7.chunk.js.map": "/disease-fighter/static/js/2.6d479ba7.chunk.js.map",
+    "static/js/3.adf4d746.chunk.js": "/disease-fighter/static/js/3.adf4d746.chunk.js",
+    "static/js/3.adf4d746.chunk.js.map": "/disease-fighter/static/js/3.adf4d746.chunk.js.map",
+    "index.html": "/disease-fighter/index.html",
+    "static/css/2.d06b72d2.chunk.css.map": "/disease-fighter/static/css/2.d06b72d2.chunk.css.map",
+    "static/css/main.03da100d.chunk.css.map": "/disease-fighter/static/css/main.03da100d.chunk.css.map",
+    "static/js/2.6d479ba7.chunk.js.LICENSE.txt": "/disease-fighter/static/js/2.6d479ba7.chunk.js.LICENSE.txt",
+    "static/media/AI.f51b4ab9.png": "/disease-fighter/static/media/AI.f51b4ab9.png",
+    "static/media/Brain.9889da02.png": "/disease-fighter/static/media/Brain.9889da02.png",
+    "static/media/Doctor.221b2b25.svg": "/disease-fighter/static/media/Doctor.221b2b25.svg",
+    "static/media/Doctor.54e94bee.png": "/disease-fighter/static/media/Doctor.54e94bee.png",
+    "static/media/Doctors.a2d727aa.png": "/disease-fighter/static/media/Doctors.a2d727aa.png",
+    "static/media/Home.css": "/disease-fighter/static/media/Home.1b999bda.png",
+    "static/media/Patient.f7d2535f.svg": "/disease-fighter/static/media/Patient.f7d2535f.svg",
+    "static/media/booking.f63538c0.png": "/disease-fighter/static/media/booking.f63538c0.png",
+    "static/media/font-awesome.min.css": "/disease-fighter/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/google.2b8bdd15.png": "/disease-fighter/static/media/google.2b8bdd15.png",
+    "static/media/login.css": "/disease-fighter/static/media/login-bg.6d292d0d.jpg",
+    "static/media/logo.e5ea7897.png": "/disease-fighter/static/media/logo.e5ea7897.png",
+    "static/media/twitter.6c453e0f.svg": "/disease-fighter/static/media/twitter.6c453e0f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d404ef19.js",
+    "static/css/2.d06b72d2.chunk.css",
+    "static/js/2.6d479ba7.chunk.js",
+    "static/css/main.03da100d.chunk.css",
+    "static/js/main.29633e85.chunk.js"
+  ]
+}
